@@ -40,6 +40,10 @@ I'm a **Graduate Student in Computer Science** at Misr University For Science an
       src="https://github-readme-streak-stats.herokuapp.com?user=toka2essa&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </div>
+
+<br/>
+
+<details>
 	
 <summary><b>⚙️ My Workflow And Tools</b></summary>
   	<ul>
