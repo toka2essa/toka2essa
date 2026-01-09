@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/gifs/KeepCoding-woman-in-tech-dev-developer-cst5AXzPxRLyIwMNsV" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFtZjdqcGV6bHBxcDY5cDE1bm01dXAzM280ZWdtbmhvbDFwYnVnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 	
 ### Hi there 👋🏻
 ## I am [Toka Ebrahem Essa](https://github.com/toka2essa)	
