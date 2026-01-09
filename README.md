@@ -3,7 +3,7 @@
 	
 ### Hi there 👋🏻
 ## I am [Toka Ebrahem Essa](https://github.com/toka2essa)	
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/eyad-almallah-a7188b233/](https://www.linkedin.com/in/toka-ebrahem-b46b54292/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/toka-ebrahem-b46b54292/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-square&logo=Facebook&logoColor=white)](https://www.facebook.com/toaa.ibrahem.9)
 [![Instagram](https://img.shields.io/badge/Instagram-%231877F2.svg?style=for-the-square&logo=Instagram&logoColor=white)](https://www.instagram.com/toka_ibrahem_/)
 
