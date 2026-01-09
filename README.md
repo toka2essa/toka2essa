@@ -35,15 +35,11 @@ I'm a **Graduate Student in Computer Science** at Misr University For Science an
   
 ### ☄️ Github Streaks:
 <div align="center">
-	<a href="https://github.com/toka2essa">
-	  <img align="center" height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=vSkipv&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-	</a>
+  <a href="https://github.com/toka2essa">
+    <img align="center" height="150em"
+      src="https://github-readme-streak-stats.herokuapp.com?user=toka2essa&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
 </div>
-
-<br/>
-
-<details>	
-  <br />
 	
 <summary><b>⚙️ My Workflow And Tools</b></summary>
   	<ul>
