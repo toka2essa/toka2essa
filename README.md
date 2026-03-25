@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://toka2essa.github.io/toka2essa/">
-<img src=https://pin.it/4nKmCedt5 height="40"/>
+<img src="LINK_HERE" width="300"/>
 </a>
 
 </div>
