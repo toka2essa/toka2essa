@@ -151,8 +151,8 @@ class ToqaEssa extends Developer {
 ## 🐍 **CONTRIBUTION SNAKE**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdalrhmanreda/abdalrhmanreda/blob/main/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/abdalrhmanreda/abdalrhmanreda/blob/main/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/toka2essa/toka2essa/blob/main/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/toka2essa/toka2essa/blob/main/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
@@ -166,12 +166,10 @@ class ToqaEssa extends Developer {
 ### 💬 **VISITOR'S NOTE**
 
 <p align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>⚡ "Creating magic one line of code at a time!"</i>
   <br/>
   <br/>
-  <b>Thanks for stopping by! Let's build something amazing together! 🚀</b>
+  <b>Hey there! I'm Toka 👩‍💻✨ Exploring Flutter, building apps, and having fun along the way. Thanks for stopping by! 💖</b>
   <br/>
   <br/>
-
-
-</div>
+</p>
