@@ -158,8 +158,10 @@ class ToqaEssa extends Developer {
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&author=Toka2essa" />
 </p>
+
+---
 
 ---
 
