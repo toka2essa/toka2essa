@@ -8,17 +8,21 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=FAACBF&text=Flutter%20Developer&section=header&reversal=true&textBg=false&fontColor=000000&fontAlign=50&animation=scaleIn&stroke=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=FAACBF&text=Flutter%20Developer&section=footer&reversal=true&textBg=false&fontColor=000000&fontSize=45&fontAlign=50&animation=scaleIn&stroke=1&strokeWidth=-3&descSize=20>"
 </p>
 
 <div align="center">
 
 
+<div align="center">
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZqN3Nkc3VrMTU3ZTVzcWQ4NHVyZWs2cWhhZ2wwd2R2YWdxNmJ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
-  <h1>
-  font=Syne&weight=800&size=32&pause=1000&color=FF6BA8&center=true&vCenter=true&width=500&lines=♡+welcome+to+my+profile+♡;Toqa+Ibrahem+Essa" alt="Typing SVG" />
+
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Syne&weight=800&size=32&pause=1000&color=FF6BA8&center=true&vCenter=true&width=500&lines=♡+welcome+to+my+profile+♡;Toqa+Ibrahem+Essa" />
 </h1>
 
+</div>
 <p><em>Flutter Developer &nbsp;·&nbsp; CS Graduate &nbsp;·&nbsp; UI/UX Enthusiast</em></p>
 
 ![Mobile Developer](https://img.shields.io/badge/📱_Mobile_Developer-FF6BA8?style=for-the-badge&logoColor=white)
