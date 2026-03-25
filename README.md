@@ -147,3 +147,31 @@ class ToqaEssa extends Developer {
 </p>
 
 </details>
+
+## 🐍 **CONTRIBUTION SNAKE**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdalrhmanreda/abdalrhmanreda/blob/main/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/abdalrhmanreda/abdalrhmanreda/blob/main/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+</p>
+
+---
+
+### 💬 **VISITOR'S NOTE**
+
+<p align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <br/>
+  <br/>
+  <b>Thanks for stopping by! Let's build something amazing together! 🚀</b>
+  <br/>
+  <br/>
+
+
+</div>
