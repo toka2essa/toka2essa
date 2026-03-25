@@ -1,6 +1,7 @@
 <div align="center">
 
 <a href="https://toka2essa.github.io/toka2essa/">
+<img src="https://img.shields.io/badge/✨_View_My_Full_Profile_Page_✨-FF6BA8?style=for-the-badge&logoColor=white" height="40"/>
 
 </a>
 
