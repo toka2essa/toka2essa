@@ -1,4 +1,12 @@
-<!-- Paste this entire block into your GitHub README.md -->
+<div align="center">
+
+<a href="https://toka2essa.github.io/toka2essa/">
+<img src="https://img.shields.io/badge/✨_View_My_Full_Profile_Page_✨-FF6BA8?style=for-the-badge&logoColor=white" height="40"/>
+</a>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -8,8 +16,6 @@
 
 <p><em>Flutter Developer &nbsp;·&nbsp; CS Graduate &nbsp;·&nbsp; UI/UX Enthusiast</em></p>
 
-<br>
-
 ![Mobile Developer](https://img.shields.io/badge/📱_Mobile_Developer-FF6BA8?style=for-the-badge&logoColor=white)
 ![Egypt](https://img.shields.io/badge/📍_Egypt-F8C94F?style=for-the-badge&logoColor=black)
 ![Experience](https://img.shields.io/badge/⏳_1+_Year-FF6BA8?style=for-the-badge&logoColor=white)
@@ -18,13 +24,9 @@
 </div>
 
 ---
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6BA8,F8C94F&height=3&section=header" width="100%"/>
-</div>
 ```dart
 class ToqaEssa extends Developer {
-  final String email      = 'toqa.essa@email.com'; // 👈 غيري الإيميل
+  final String email      = 'tokae928@gmail.com';
   final String role       = 'Flutter Developer';
   final double experience = 1.0; // years & counting 🚀
   final String education  = '🎓 Computer Science Graduate';
@@ -100,7 +102,7 @@ class ToqaEssa extends Developer {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6BA8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toka-ebrahem-b46b54292)
 [![Instagram](https://img.shields.io/badge/Instagram-F8C94F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/toka_ibrahem_/)
 [![Facebook](https://img.shields.io/badge/Facebook-FF6BA8?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/toaa.ibrahem.9)
-[![Email](https://img.shields.io/badge/Email-F8C94F?style=for-the-badge&logo=gmail&logoColor=black)](mailto:toqaessa@email.com)
+[![Email](https://img.shields.io/badge/Email-F8C94F?style=for-the-badge&logo=gmail&logoColor=black)](mailto:tokae928@gmail.com)
 
 </div>
 
