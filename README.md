@@ -13,8 +13,10 @@
 
 <div align="center">
 
-<h1>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZqN3Nkc3VrMTU3ZTVzcWQ4NHVyZWs2cWhhZ2wwd2R2YWdxNmJ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>font=Syne&weight=800&size=32&pause=1000&color=FF6BA8&center=true&vCenter=true&width=500&lines=♡+welcome+to+my+profile+♡;Toqa+Ibrahem+Essa" alt="Typing SVG" />
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZqN3Nkc3VrMTU3ZTVzcWQ4NHVyZWs2cWhhZ2wwd2R2YWdxNmJ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+  <h1>
+  font=Syne&weight=800&size=32&pause=1000&color=FF6BA8&center=true&vCenter=true&width=500&lines=♡+welcome+to+my+profile+♡;Toqa+Ibrahem+Essa" alt="Typing SVG" />
 </h1>
 
 <p><em>Flutter Developer &nbsp;·&nbsp; CS Graduate &nbsp;·&nbsp; UI/UX Enthusiast</em></p>
