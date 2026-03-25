@@ -169,7 +169,7 @@ class ToqaEssa extends Developer {
   <i>⚡ "Creating magic one line of code at a time!"</i>
   <br/>
   <br/>
-  <b>Hey there! I'm Toka 👩‍💻✨ Exploring Flutter, building apps, and having fun along the way. Thanks for stopping by! 💖</b>
+  <b>Hey there! I'm Toqa 👩‍💻✨ Exploring Flutter, building apps, and having fun along the way. Thanks for stopping by! 💖</b>
   <br/>
   <br/>
 </p>
