@@ -163,8 +163,6 @@ class ToqaEssa extends Developer {
 
 ---
 
----
-
 ### 💬 **VISITOR'S NOTE**
 
 <p align="center">
