@@ -1,9 +1,9 @@
 name: generate animation
 
 on:
-  # تشغيل تلقائي كل 24 ساعة
+  # تشغيل تلقائي كل يوم الساعة 12 بالليل
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 0 * * *" 
   
   # السماح بتشغيله يدوياً
   workflow_dispatch:
