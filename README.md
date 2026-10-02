@@ -68,7 +68,7 @@
 
 <table align="center" border="0">
   <tr>
-    <td width="78%" valign="middle" align="center">
+    <td width="75%" valign="middle" align="center">
       <p>
         <b>Software Engineer & Mobile Application Specialist</b><br/>
         <i>"Code is like humor. When you have to explain it, it's bad."</i> — <b>Cory House</b>
@@ -78,8 +78,8 @@
         💡 <b>Philosophy:</b> Clean code, maintainable systems, and pixel-perfect design in every commit.
       </p>
     </td>
-    <td width="22%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/9.gif" width="85" alt="Blastoise Sprite" />
+    <td width="25%" align="center" valign="middle">
+      <img src="./assets/chibi-girl.jpg" width="135" style="border-radius: 18px; box-shadow: 0 6px 20px rgba(124, 58, 237, 0.35);" alt="Chibi Developer Girl" />
     </td>
   </tr>
 </table>
