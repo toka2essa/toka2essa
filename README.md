@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Toqa%20Ibrahem&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Flutter%20Developer%20%E2%80%A2%20CS%20Graduate%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=64&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Toqa%20Ibrahem&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Mobile%20Application%20Developer&descAlignY=64&descAlign=50" width="100%"/>
 
   <!-- Typing Dynamic Text -->
   <a href="https://toka2essa.github.io/toka2essa/">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=%E2%9CA8+Hi%2C+I'm+Toqa+Ibrahem;%F0%9F%93%B1+Crafting+Pixel-Perfect+Flutter+Apps;%F0%9F%8E%A8+Turning+Ideas+Into+Fluid+UI%2FUX;%F0%9F%8C%9F+Welcome+to+my+creative+space!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=23&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=%E2%9CA8+Hi%2C+I'm+Toqa+Ibrahem;%F0%9F%92%BB+Software+Engineer+%26+Mobile+Developer;%F0%9F%93%B1+Specializing+in+Flutter+%26+Dart;%F0%9F%8E%A8+Clean+Architecture+%E2%80%A2+Fluid+UI%2FUX;%F0%9F%8C%9F+Welcome+to+my+creative+space!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -87,10 +87,13 @@
     </td>
     <td width="65%" valign="middle" style="padding-left: 18px; line-height: 1.7;">
       <p>
-        Hello! My name is <b>Toqa Ibrahem</b>, and I am a <b>Flutter & Mobile App Developer</b> and Computer Science Graduate based in Egypt. I am passionate about learning new technologies, developing innovative mobile projects, and solving complex problems through clean and efficient code.
+        Hello! I'm <b>Toqa Ibrahem</b>, a <b>Software Engineer & Mobile Application Developer</b> with a solid Computer Science foundation based in Egypt 🇪🇬.
       </p>
       <p>
-        Currently, I am honing my skills in <b>Flutter, Dart, Clean Architecture, BLoC / Cubit, Firebase, and RESTful APIs</b>, focusing on building robust, high-performance, and responsive cross-platform applications while continuously growing within the tech industry.
+        I engineer high-quality, production-ready cross-platform mobile apps with a deep focus on <b>Flutter & Dart</b>. Driven by clean software craftsmanship, I build scalable and maintainable architectures using <b>Clean Architecture</b>, <b>BLoC / Cubit</b>, and seamless <b>RESTful API & Firebase</b> integrations.
+      </p>
+      <p>
+        Passionate about <b>UI/UX engineering</b>, I bridge technical excellence with fluid micro-interactions, responsive design, and performance optimization — turning complex requirements into intuitive, reliable mobile solutions.
       </p>
     </td>
   </tr>
@@ -107,12 +110,12 @@
   <tr>
     <td width="78%" valign="middle" align="center">
       <p>
-        <b>Computer Science Graduate & Mobile Engineer</b><br/>
+        <b>Software Engineer & Mobile Application Specialist</b><br/>
         <i>"Code is like humor. When you have to explain it, it's bad."</i> — <b>Cory House</b>
       </p>
       <p>
-        🎯 <b>Mission:</b> Build impactful, seamless mobile applications that make people's lives easier.<br/>
-        💡 <b>Love:</b> Pixel-perfect UI design, smooth micro-interactions, and architecting clean state management.
+        🎯 <b>Mission:</b> Engineer scalable, high-impact mobile solutions that simplify everyday life.<br/>
+        💡 <b>Philosophy:</b> Clean code, maintainable systems, and pixel-perfect design in every commit.
       </p>
     </td>
     <td width="22%" align="center" valign="middle">
