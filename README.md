@@ -89,7 +89,7 @@
 <!-- ==================== CONTRIBUTION GRAPH ==================== -->
 <div align="center">
   <h2>🐍 Contribution Graph</h2>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/toka2essa/toka2essa/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/toka2essa/toka2essa/output/github-contribution-grid-snake-dark.svg?v=2" width="100%" />
 </div>
 
 <br/>
