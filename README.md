@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Toqa%20Essa&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Flutter%20Developer%20%E2%80%A2%20CS%20Graduate%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=64&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Toqa%20Ibrahem&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=Flutter%20Developer%20%E2%80%A2%20CS%20Graduate%20%E2%80%A2%20UI%2FUX%20Enthusiast&descAlignY=64&descAlign=50" width="100%"/>
 
   <!-- Typing Dynamic Text -->
   <a href="https://toka2essa.github.io/toka2essa/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=%E2%9CA8+Hi%2C+I'm+Toqa+Ibrahem+Essa;%F0%9F%93%B1+Crafting+Pixel-Perfect+Flutter+Apps;%F0%9F%8E%A8+Turning+Ideas+Into+Fluid+UI%2FUX;%F0%9F%8C%9F+Welcome+to+my+creative+space!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=%E2%9CA8+Hi%2C+I'm+Toqa+Ibrahem;%F0%9F%93%B1+Crafting+Pixel-Perfect+Flutter+Apps;%F0%9F%8E%A8+Turning+Ideas+Into+Fluid+UI%2FUX;%F0%9F%8C%9F+Welcome+to+my+creative+space!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -83,11 +83,11 @@
 <table align="center" border="0">
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="./assets/lofi-coder.jpg" width="280" style="border-radius: 16px; box-shadow: 0 8px 24px rgba(124, 58, 237, 0.25);" alt="Toqa Essa" onerror="this.onerror=null; this.src='https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif';" />
+      <img src="./assets/lofi-coder.jpg" width="280" style="border-radius: 16px; box-shadow: 0 8px 24px rgba(124, 58, 237, 0.25);" alt="Toqa Ibrahem" onerror="this.onerror=null; this.src='https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif';" />
     </td>
     <td width="65%" valign="middle" style="padding-left: 18px; line-height: 1.7;">
       <p>
-        Hello! My name is <b>Toqa Ibrahem Essa</b>, and I am a <b>Flutter & Mobile App Developer</b> and Computer Science Graduate based in Egypt. I am passionate about learning new technologies, developing innovative mobile projects, and solving complex problems through clean and efficient code.
+        Hello! My name is <b>Toqa Ibrahem</b>, and I am a <b>Flutter & Mobile App Developer</b> and Computer Science Graduate based in Egypt. I am passionate about learning new technologies, developing innovative mobile projects, and solving complex problems through clean and efficient code.
       </p>
       <p>
         Currently, I am honing my skills in <b>Flutter, Dart, Clean Architecture, BLoC / Cubit, Firebase, and RESTful APIs</b>, focusing on building robust, high-performance, and responsive cross-platform applications while continuously growing within the tech industry.
@@ -141,6 +141,6 @@
   <br/><br/>
   <b>Hey there! Thanks for stopping by my creative space. Feel free to connect! 💖</b>
   <br/><br/>
-  <sub>Crafted with 💜 & lots of ☕ by <b>Toqa Ibrahem Essa</b></sub>
+  <sub>Crafted with 💜 & lots of ☕ by <b>Toqa Ibrahem</b></sub>
 
 </div>
