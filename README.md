@@ -35,46 +35,6 @@
 
 <br/>
 
-<!-- ==================== TECHNOLOGIES ==================== -->
-<div align="center">
-  <h2>🔘 Technologies</h2>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,figma,cpp,js,git,github,androidstudio,vscode,postman&perline=6" alt="Tech Stack Icons" />
-  </a>
-
-  <br/><br/>
-
-  <p>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bloc_/_Cubit-8B5CF6?style=flat-square&logo=redux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Clean_Architecture-10B981?style=flat-square&logo=blueprint&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/REST_APIs-F97316?style=flat-square&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  </p>
-</div>
-
-<br/>
-
-<!-- ==================== STATISTICS ==================== -->
-<div align="center">
-  <h2>🔘 Statistics</h2>
-
-  <p>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=toka2essa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=toka2essa&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=10&background=0d1117&stroke=a78bfa&ring=c084fc&fire=f472b6&currStreakLabel=a78bfa" alt="Streak Stats" />
-  </p>
-
-  <p>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toka2essa&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9" alt="Top Languages" />
-  </p>
-</div>
-
-<br/>
-
 <!-- ==================== ABOUT ME ==================== -->
 <div align="center">
   <h2>🔘 About Me</h2>
@@ -123,6 +83,46 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- ==================== TECHNOLOGIES ==================== -->
+<div align="center">
+  <h2>🔘 Technologies</h2>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,figma,cpp,js,git,github,androidstudio,vscode,postman&perline=6" alt="Tech Stack Icons" />
+  </a>
+
+  <br/><br/>
+
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bloc_/_Cubit-8B5CF6?style=flat-square&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Clean_Architecture-10B981?style=flat-square&logo=blueprint&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/REST_APIs-F97316?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  </p>
+</div>
+
+<br/>
+
+<!-- ==================== STATISTICS ==================== -->
+<div align="center">
+  <h2>🔘 Statistics</h2>
+
+  <p>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=toka2essa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=toka2essa&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=10&background=0d1117&stroke=a78bfa&ring=c084fc&fire=f472b6&currStreakLabel=a78bfa" alt="Streak Stats" />
+  </p>
+
+  <p>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toka2essa&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9" alt="Top Languages" />
+  </p>
+</div>
 
 <br/>
 
