@@ -86,26 +86,10 @@
 
 <br/>
 
-<!-- ==================== TECHNOLOGIES ==================== -->
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
 <div align="center">
-  <h2>🔘 Technologies</h2>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,figma,cpp,js,git,github,androidstudio,vscode,postman&perline=6" alt="Tech Stack Icons" />
-  </a>
-
-  <br/><br/>
-
-  <p>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bloc_/_Cubit-8B5CF6?style=flat-square&logo=redux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Clean_Architecture-10B981?style=flat-square&logo=blueprint&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/REST_APIs-F97316?style=flat-square&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  </p>
+  <h2>🐍 Contribution Graph</h2>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/toka2essa/toka2essa/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <br/>
@@ -126,10 +110,26 @@
 
 <br/>
 
-<!-- ==================== CONTRIBUTION GRAPH ==================== -->
+<!-- ==================== TECHNOLOGIES ==================== -->
 <div align="center">
-  <h2>🐍 Contribution Graph</h2>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/toka2essa/toka2essa/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <h2>🔘 Technologies</h2>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,figma,cpp,js,git,github,androidstudio,vscode,postman&perline=6" alt="Tech Stack Icons" />
+  </a>
+
+  <br/><br/>
+
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bloc_/_Cubit-8B5CF6?style=flat-square&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Clean_Architecture-10B981?style=flat-square&logo=blueprint&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/REST_APIs-F97316?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  </p>
 </div>
 
 <br/>
