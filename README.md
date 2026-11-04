@@ -96,20 +96,14 @@
 <br/>
 
 <!-- ==================== STATISTICS ==================== -->
-<div align="center">
-  <h2>🔘 Statistics</h2>
+<!-- GitHub Stats -->
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=toka2essa&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400" />
 
-  <p>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=toka2essa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=toka2essa&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=10&background=0d1117&stroke=a78bfa&ring=c084fc&fire=f472b6&currStreakLabel=a78bfa" alt="Streak Stats" />
-  </p>
+<!-- Streak Stats -->
+<img width="49%" src="https://streak-stats.demolab.com/?user=toka2essa&theme=tokyonight" />
 
-  <p>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toka2essa&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9" alt="Top Languages" />
-  </p>
-</div>
-
-<br/>
+<!-- Top Languages -->
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=toka2essa&layout=compact&theme=tokyonight&cache_seconds=86400" />
 
 <!-- ==================== TECHNOLOGIES ==================== -->
 <div align="center">
