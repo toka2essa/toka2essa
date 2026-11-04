@@ -108,14 +108,14 @@
   <br/><br/>
 
   <!-- Streak Stats -->
-  <img width="55%"
+  <img width="50%"
        src="https://streak-stats.demolab.com/?user=toka2essa&theme=tokyonight"
        alt="GitHub Streak Stats" />
 
   <br/><br/>
 
   <!-- Top Languages -->
-  <img width="55%"
+  <img width="50%"
        src="https://github-stats-extended.vercel.app/api/top-langs/?username=toka2essa&layout=compact&theme=tokyonight&cache_seconds=86400"
        alt="Top Languages" />
 
