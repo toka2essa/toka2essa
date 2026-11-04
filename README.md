@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <!-- Header Banner -->
@@ -5,7 +6,7 @@
 
   <!-- Typing Dynamic Text -->
   <a href="https://toka2essa.github.io/toka2essa/">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=23&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=%E2%9CA8+Hi%2C+I'm+Toqa+Ibrahem;%F0%9F%92%BB+Software+Engineer+%26+Mobile+Developer;%F0%9F%93%B1+Specializing+in+Flutter+%26+Dart;%F0%9F%8E%A8+Clean+Architecture+%E2%80%A2+Fluid+UI%2FUX;%F0%9F%8C%9F+Welcome+to+my+creative+space!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=23&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=%E2%9C%A8+Hi%2C+I'm+Toqa+Ibrahem;%F0%9F%92%BB+Software+Engineer+%26+Mobile+Developer;%F0%9F%93%B1+Specializing+in+Flutter+%26+Dart;%F0%9F%8E%A8+Clean+Architecture+%E2%80%A2+Fluid+UI%2FUX;%F0%9F%8C%9F+Welcome+to+my+creative+space!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
