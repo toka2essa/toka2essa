@@ -101,21 +101,21 @@
   <h2>📊 GitHub Statistics</h2>
 
   <!-- GitHub Stats -->
-  <img width="85%"
+  <img width="55%"
        src="https://github-stats-extended.vercel.app/api?username=toka2essa&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400"
        alt="GitHub Stats" />
 
   <br/><br/>
 
   <!-- Streak Stats -->
-  <img width="85%"
+  <img width="55%"
        src="https://streak-stats.demolab.com/?user=toka2essa&theme=tokyonight"
        alt="GitHub Streak Stats" />
 
   <br/><br/>
 
   <!-- Top Languages -->
-  <img width="85%"
+  <img width="55%"
        src="https://github-stats-extended.vercel.app/api/top-langs/?username=toka2essa&layout=compact&theme=tokyonight&cache_seconds=86400"
        alt="Top Languages" />
 
